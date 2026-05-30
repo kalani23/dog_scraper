@@ -1,1354 +1,402 @@
 [
   {
-    "date": "2025-02-01",
-    "dog": "Francesca Rose"
+    "date": "2025-06-05",
+    "dog": "Cerulean Poppy"
   },
   {
-    "date": "2025-01-23",
-    "dog": "Flash Abbey"
+    "date": "2025-06-13",
+    "dog": "Dear Carla Lou"
   },
   {
-    "date": "2025-01-20",
-    "dog": "Zeni Bale"
+    "date": "2025-06-28",
+    "dog": "Mackinaw Peach"
   },
   {
-    "date": "2024-12-30",
-    "dog": "Riendo"
+    "date": "2025-06-13",
+    "dog": "Shima Time"
   },
   {
-    "date": "2024-12-23",
-    "dog": "Dawny By Name"
+    "date": "2025-06-20",
+    "dog": "Scott Micah"
   },
   {
-    "date": "2024-12-21",
-    "dog": "Crude"
+    "date": "2025-06-26",
+    "dog": "Spring Lassen"
   },
   {
-    "date": "2024-12-19",
-    "dog": "Scott Influence"
+    "date": "2025-05-18",
+    "dog": "Begonia Bell"
   },
   {
-    "date": "2024-12-12",
-    "dog": "Cinnabar Icon"
+    "date": "2025-05-24",
+    "dog": "Cheap Red Wine"
   },
   {
-    "date": "2024-12-12",
-    "dog": "Magic Tigeress"
-  },
-  {
-    "date": "2024-11-18",
-    "dog": "Storm Sensation"
-  },
-  {
-    "date": "2024-10-31",
-    "dog": "Especial Yogi"
-  },
-  {
-    "date": "2024-04-18",
-    "dog": "Reschedule"
-  },
-  {
-    "date": "2025-05-12",
-    "dog": "Silent Knight"
-  },
-  {
-    "date": "2025-05-08",
-    "dog": "Shining Grace"
-  },
-  {
-    "date": "2025-05-08",
-    "dog": "Topper Snowdrift"
-  },
-  {
-    "date": "2025-04-25",
-    "dog": "Dashing Nando"
-  },
-  {
-    "date": "2025-04-25",
-    "dog": "Uptown Sally"
-  },
-  {
-    "date": "2025-04-24",
-    "dog": "Olympia Onyx"
-  },
-  {
-    "date": "2025-04-10",
-    "dog": "Whodat Whiskey"
-  },
-  {
-    "date": "2025-03-31",
-    "dog": "Sweet Valentine"
-  },
-  {
-    "date": "2025-03-27",
-    "dog": "Magic Bullseye"
-  },
-  {
-    "date": "2025-03-22",
-    "dog": "Blessed Rain"
-  },
-  {
-    "date": "2025-03-06",
-    "dog": "Lainey Jane"
-  },
-  {
-    "date": "2025-02-13",
-    "dog": "White Mist"
-  },
-  {
-    "date": "2025-01-27",
-    "dog": "Tricky Riddles"
-  },
-  {
-    "date": "2025-01-11",
-    "dog": "Shock And Awe"
-  },
-  {
-    "date": "2025-01-09",
-    "dog": "Shy Cabang"
-  },
-  {
-    "date": "2025-01-06",
-    "dog": "Let's Win Ollie"
-  },
-  {
-    "date": "2025-01-06",
-    "dog": "Paw Marvel"
-  },
-  {
-    "date": "2025-01-02",
-    "dog": "Hot Rocker"
-  },
-  {
-    "date": "2024-12-23",
-    "dog": "Grover Bale"
-  },
-  {
-    "date": "2024-12-23",
-    "dog": "Tinker Dot"
-  },
-  {
-    "date": "2024-12-21",
-    "dog": "Tinker Conall"
-  },
-  {
-    "date": "2024-12-19",
-    "dog": "Firing Chief"
-  },
-  {
-    "date": "2024-12-19",
-    "dog": "Roman Empire"
-  },
-  {
-    "date": "2024-12-12",
-    "dog": "Bravado"
-  },
-  {
-    "date": "2024-11-25",
-    "dog": "Delatite Beast"
-  },
-  {
-    "date": "2024-11-16",
-    "dog": "Bear Lee Crime"
-  },
-  {
-    "date": "2024-11-16",
-    "dog": "Queston Bale"
-  },
-  {
-    "date": "2024-11-16",
-    "dog": "Wellerman"
-  },
-  {
-    "date": "2024-11-07",
-    "dog": "Lissy Loulou"
-  },
-  {
-    "date": "2024-10-07",
-    "dog": "Leap Of Faith"
-  },
-  {
-    "date": "2024-04-22",
-    "dog": "Found A Spot"
-  },
-  {
-    "date": "2025-03-07",
-    "dog": "Essence"
-  },
-  {
-    "date": "2025-03-07",
-    "dog": "Sweet Valentine"
-  },
-  {
-    "date": "2025-03-05",
-    "dog": "Thermal Spark"
-  },
-  {
-    "date": "2025-02-21",
-    "dog": "Silver Machine"
-  },
-  {
-    "date": "2025-02-19",
-    "dog": "Collinda Pops"
-  },
-  {
-    "date": "2025-02-07",
-    "dog": "Husky Sara Lee"
-  },
-  {
-    "date": "2025-01-29",
-    "dog": "Thunder Bay"
-  },
-  {
-    "date": "2025-01-24",
-    "dog": "Heavy Haulage"
-  },
-  {
-    "date": "2025-01-24",
-    "dog": "Prince Pierre"
-  },
-  {
-    "date": "2025-01-16",
-    "dog": "Tiger Shark"
-  },
-  {
-    "date": "2025-01-15",
-    "dog": "Come On Mango"
-  },
-  {
-    "date": "2025-01-08",
-    "dog": "Chattanooga"
-  },
-  {
-    "date": "2024-12-27",
-    "dog": "Peacock"
-  },
-  {
-    "date": "2024-12-13",
-    "dog": "Paw Tabitha"
-  },
-  {
-    "date": "2024-11-06",
-    "dog": "Tornado Jack"
-  },
-  {
-    "date": "2024-10-23",
-    "dog": "Prince Pierre"
-  },
-  {
-    "date": "2024-05-08",
-    "dog": "Snow Royale"
-  },
-  {
-    "date": "2025-05-17",
-    "dog": "One Knee Noni"
-  },
-  {
-    "date": "2025-05-14",
-    "dog": "Latin Rhythm"
-  },
-  {
-    "date": "2025-05-02",
-    "dog": "Ripper Riley"
-  },
-  {
-    "date": "2025-04-20",
-    "dog": "Dunach Fireball"
-  },
-  {
-    "date": "2025-04-17",
-    "dog": "Life Awaits"
-  },
-  {
-    "date": "2025-04-17",
-    "dog": "Rock Show"
-  },
-  {
-    "date": "2025-04-15",
-    "dog": "Blue Roses"
-  },
-  {
-    "date": "2025-04-15",
-    "dog": "Jed's Memory"
-  },
-  {
-    "date": "2025-04-13",
-    "dog": "Angry Chief"
-  },
-  {
-    "date": "2025-04-11",
-    "dog": "Paw Tonk"
-  },
-  {
-    "date": "2025-04-11",
-    "dog": "Scott Gnarly"
-  },
-  {
-    "date": "2025-04-09",
-    "dog": "Harry Hotcakes"
-  },
-  {
-    "date": "2025-03-15",
-    "dog": "Sir Whip"
-  },
-  {
-    "date": "2025-03-12",
-    "dog": "Clara Stella"
-  },
-  {
-    "date": "2025-03-12",
-    "dog": "My Opie"
-  },
-  {
-    "date": "2025-02-19",
-    "dog": "Sweet Valentine"
-  },
-  {
-    "date": "2025-01-25",
-    "dog": "Silver Machine"
-  },
-  {
-    "date": "2025-01-22",
-    "dog": "Greysynd Will"
-  },
-  {
-    "date": "2025-01-17",
-    "dog": "Yellow Hawk"
-  },
-  {
-    "date": "2025-01-16",
-    "dog": "Artificial Blue"
-  },
-  {
-    "date": "2025-01-16",
-    "dog": "Zero Predator"
-  },
-  {
-    "date": "2025-01-08",
-    "dog": "Nickleby Action"
-  },
-  {
-    "date": "2024-12-11",
-    "dog": "Forgotten Time"
-  },
-  {
-    "date": "2024-11-27",
-    "dog": "Moraine Demon"
-  },
-  {
-    "date": "2024-11-06",
-    "dog": "Major Franky"
-  },
-  {
-    "date": "2024-10-26",
-    "dog": "Classy Shifter"
-  },
-  {
-    "date": "2024-05-29",
-    "dog": "Luna Beauty"
-  },
-  {
-    "date": "2025-03-03",
-    "dog": "Smooth Tiger"
-  },
-  {
-    "date": "2025-03-03",
-    "dog": "Star Sixty Six"
-  },
-  {
-    "date": "2025-02-17",
-    "dog": "Highway"
-  },
-  {
-    "date": "2025-02-03",
-    "dog": "Candy Stride"
-  },
-  {
-    "date": "2025-01-27",
-    "dog": "Harlow's Boy"
-  },
-  {
-    "date": "2025-01-27",
-    "dog": "Paw Trinny"
-  },
-  {
-    "date": "2025-01-22",
-    "dog": "That's My Cousin"
-  },
-  {
-    "date": "2025-01-18",
-    "dog": "Nice One Tom"
-  },
-  {
-    "date": "2025-01-15",
-    "dog": "Man Of Courage"
-  },
-  {
-    "date": "2025-01-13",
-    "dog": "Briley Riot"
-  },
-  {
-    "date": "2025-01-13",
-    "dog": "Nanna Nap"
-  },
-  {
-    "date": "2025-01-06",
-    "dog": "Nanna Nap"
-  },
-  {
-    "date": "2024-12-24",
-    "dog": "Western Feel"
-  },
-  {
-    "date": "2024-10-23",
-    "dog": "Aston Monarchy"
-  },
-  {
-    "date": "2025-05-16",
-    "dog": "Stojanovic"
-  },
-  {
-    "date": "2025-05-14",
-    "dog": "Tornado Tahlia"
-  },
-  {
-    "date": "2025-05-12",
-    "dog": "Borough Man"
-  },
-  {
-    "date": "2025-05-10",
-    "dog": "Aston Finniss"
-  },
-  {
-    "date": "2025-05-10",
-    "dog": "Maybe Rain"
-  },
-  {
-    "date": "2025-05-07",
-    "dog": "Cookie Man"
-  },
-  {
-    "date": "2025-05-05",
-    "dog": "Aston Ophelia"
-  },
-  {
-    "date": "2025-05-05",
-    "dog": "Aston Warrior"
-  },
-  {
-    "date": "2025-05-05",
-    "dog": "Mrs. Smith"
-  },
-  {
-    "date": "2025-05-05",
-    "dog": "Tinker Rays"
-  },
-  {
-    "date": "2025-05-01",
-    "dog": "Go For Gold"
-  },
-  {
-    "date": "2025-05-01",
-    "dog": "Midnight In Sale"
-  },
-  {
-    "date": "2025-05-01",
-    "dog": "Rock It Queen"
-  },
-  {
-    "date": "2025-04-28",
-    "dog": "Axedale Queen"
-  },
-  {
-    "date": "2025-04-28",
-    "dog": "Paw Valentina"
-  },
-  {
-    "date": "2025-04-23",
-    "dog": "No Bad Deed"
-  },
-  {
-    "date": "2025-04-23",
-    "dog": "Paw Rex"
-  },
-  {
-    "date": "2025-04-22",
-    "dog": "Off The Beer"
-  },
-  {
-    "date": "2025-04-22",
-    "dog": "Pyrenees Prince"
-  },
-  {
-    "date": "2025-04-16",
-    "dog": "Cosmic Reward"
-  },
-  {
-    "date": "2025-04-14",
-    "dog": "Salmon Spray"
-  },
-  {
-    "date": "2025-04-12",
-    "dog": "My Opie"
-  },
-  {
-    "date": "2025-04-08",
-    "dog": "Fergus Bale"
-  },
-  {
-    "date": "2025-02-27",
-    "dog": "Ribero"
-  },
-  {
-    "date": "2025-02-24",
-    "dog": "Car Wash Chaos"
-  },
-  {
-    "date": "2025-02-19",
-    "dog": "Paw Marvel"
-  },
-  {
-    "date": "2025-02-17",
-    "dog": "Two Bays"
-  },
-  {
-    "date": "2025-01-20",
-    "dog": "Peaches"
-  },
-  {
-    "date": "2025-01-08",
-    "dog": "Blackpool Slade"
-  },
-  {
-    "date": "2025-01-06",
-    "dog": "Just Want Pizza"
-  },
-  {
-    "date": "2025-01-01",
-    "dog": "Asperitas"
-  },
-  {
-    "date": "2025-03-09",
-    "dog": "Posh Paws"
-  },
-  {
-    "date": "2025-02-28",
-    "dog": "Butterfly Girl"
-  },
-  {
-    "date": "2025-02-28",
-    "dog": "Jumbuk Gerhard"
-  },
-  {
-    "date": "2025-02-21",
-    "dog": "Foxy Faun"
-  },
-  {
-    "date": "2025-02-12",
-    "dog": "Borough Cook"
-  },
-  {
-    "date": "2025-01-31",
-    "dog": "Minh Georgy"
-  },
-  {
-    "date": "2025-01-26",
-    "dog": "Bamera"
-  },
-  {
-    "date": "2025-01-26",
-    "dog": "Better Banjo"
-  },
-  {
-    "date": "2025-01-24",
-    "dog": "Are You Okay"
-  },
-  {
-    "date": "2025-01-22",
-    "dog": "Aston Flurry"
-  },
-  {
-    "date": "2025-01-19",
-    "dog": "Stifler"
-  },
-  {
-    "date": "2025-01-13",
-    "dog": "Spirited Sal"
-  },
-  {
-    "date": "2025-01-03",
-    "dog": "Fitzroy Halle"
-  },
-  {
-    "date": "2024-11-17",
-    "dog": "Hartney"
-  },
-  {
-    "date": "2025-05-16",
-    "dog": "Sailaway Gin"
-  },
-  {
-    "date": "2025-05-11",
-    "dog": "Got Flair"
-  },
-  {
-    "date": "2025-05-09",
-    "dog": "Brutal Power"
-  },
-  {
-    "date": "2025-05-09",
-    "dog": "Valletta Flash"
-  },
-  {
-    "date": "2025-05-06",
-    "dog": "Black Friday"
-  },
-  {
-    "date": "2025-05-06",
-    "dog": "Let's Go Georgi"
-  },
-  {
-    "date": "2025-05-02",
-    "dog": "Boo Boo Giblet"
-  },
-  {
-    "date": "2025-04-29",
-    "dog": "Glorious Glory"
-  },
-  {
-    "date": "2025-04-29",
-    "dog": "Whizbang Archer"
-  },
-  {
-    "date": "2025-04-23",
-    "dog": "Destini Lorenzo"
-  },
-  {
-    "date": "2025-04-23",
-    "dog": "No Magpies"
-  },
-  {
-    "date": "2025-04-23",
-    "dog": "No Manners"
-  },
-  {
-    "date": "2025-04-18",
-    "dog": "Paddy Almighty"
-  },
-  {
-    "date": "2025-03-30",
-    "dog": "Talk Is Cheap"
-  },
-  {
-    "date": "2025-03-21",
-    "dog": "Braemar Cora"
-  },
-  {
-    "date": "2025-02-16",
-    "dog": "Sheezel"
-  },
-  {
-    "date": "2025-01-17",
-    "dog": "Aston Cospicua"
-  },
-  {
-    "date": "2025-01-17",
-    "dog": "Mt. View Amour"
-  },
-  {
-    "date": "2025-01-10",
-    "dog": "Super Tone"
-  },
-  {
-    "date": "2025-03-06",
-    "dog": "Sonic Trooper"
-  },
-  {
-    "date": "2025-02-24",
-    "dog": "Mepunga Rocky"
-  },
-  {
-    "date": "2025-02-22",
-    "dog": "Applicant"
-  },
-  {
-    "date": "2025-01-27",
-    "dog": "Tiger Shark"
-  },
-  {
-    "date": "2024-11-18",
-    "dog": "Jetstream Icon"
-  },
-  {
-    "date": "2024-10-28",
-    "dog": "Kraken Whisky"
-  },
-  {
-    "date": "2024-09-30",
-    "dog": "Tat Leah"
-  },
-  {
-    "date": "2024-09-02",
-    "dog": "Field Day"
-  },
-  {
-    "date": "2024-08-26",
-    "dog": "Imani"
-  },
-  {
-    "date": "2025-05-12",
-    "dog": "One Word Answer"
-  },
-  {
-    "date": "2025-04-28",
-    "dog": "Kraken Paddy"
-  },
-  {
-    "date": "2025-04-28",
-    "dog": "Spring Miles"
-  },
-  {
-    "date": "2025-04-14",
-    "dog": "Aston Walker"
-  },
-  {
-    "date": "2025-03-31",
-    "dog": "Gold Scotch"
-  },
-  {
-    "date": "2025-02-27",
-    "dog": "Lucky Lisa"
-  },
-  {
-    "date": "2025-02-24",
-    "dog": "Lakeview Emily"
-  },
-  {
-    "date": "2024-11-25",
-    "dog": "Darra Topaz"
-  },
-  {
-    "date": "2024-11-18",
-    "dog": "Mister Easy"
-  },
-  {
-    "date": "2025-02-18",
-    "dog": "White Iverson"
-  },
-  {
-    "date": "2025-02-09",
-    "dog": "Mile A Minute"
-  },
-  {
-    "date": "2025-02-09",
-    "dog": "Seagull Rock"
-  },
-  {
-    "date": "2025-01-31",
-    "dog": "Savannah Star"
-  },
-  {
-    "date": "2025-01-19",
-    "dog": "Sketchy Demos"
-  },
-  {
-    "date": "2025-01-05",
-    "dog": "Sweet Valentine"
-  },
-  {
-    "date": "2025-05-11",
-    "dog": "Sweet Nugget"
-  },
-  {
-    "date": "2025-05-02",
-    "dog": "Glorious Glory"
-  },
-  {
-    "date": "2025-05-02",
-    "dog": "Heyfield Honey"
-  },
-  {
-    "date": "2025-05-02",
-    "dog": "Waltzing Brute"
-  },
-  {
-    "date": "2025-04-27",
-    "dog": "Lamia Wheeze"
-  },
-  {
-    "date": "2025-04-25",
-    "dog": "King Kaboom"
-  },
-  {
-    "date": "2025-03-23",
-    "dog": "Rhythmic Energy"
-  },
-  {
-    "date": "2025-02-28",
-    "dog": "Borough Cook"
-  },
-  {
-    "date": "2025-03-08",
-    "dog": "With The Wind"
-  },
-  {
-    "date": "2025-03-06",
-    "dog": "Bismuth"
-  },
-  {
-    "date": "2025-03-04",
-    "dog": "Battlefield Lass"
-  },
-  {
-    "date": "2025-02-15",
-    "dog": "Full Speed Ahead"
-  },
-  {
-    "date": "2025-01-21",
-    "dog": "Tricky Disco"
-  },
-  {
-    "date": "2024-11-28",
-    "dog": "Marais Bale"
-  },
-  {
-    "date": "2025-04-11",
-    "dog": "If He Could"
-  },
-  {
-    "date": "2025-04-07",
-    "dog": "Bow Edition"
-  },
-  {
-    "date": "2025-04-01",
-    "dog": "Jumbuk Punky"
-  },
-  {
-    "date": "2025-04-01",
-    "dog": "Sand Dunes"
-  },
-  {
-    "date": "2025-03-25",
-    "dog": "Blank Slate"
-  },
-  {
-    "date": "2025-03-18",
-    "dog": "Candy Stride"
-  },
-  {
-    "date": "2025-02-07",
-    "dog": "Aston Warrior"
-  },
-  {
-    "date": "2025-01-17",
-    "dog": "Paw Xena"
-  },
-  {
-    "date": "2025-01-14",
-    "dog": "Pugsley"
-  },
-  {
-    "date": "2025-02-21",
-    "dog": "Angry Ellie"
-  },
-  {
-    "date": "2025-02-21",
-    "dog": "Top Kade"
-  },
-  {
-    "date": "2025-02-18",
-    "dog": "Undercover Guy"
-  },
-  {
-    "date": "2025-02-14",
-    "dog": "Angry Ellie"
-  },
-  {
-    "date": "2025-01-17",
-    "dog": "Computer Model"
-  },
-  {
-    "date": "2025-05-15",
-    "dog": "Pearly Whirly"
-  },
-  {
-    "date": "2025-05-06",
-    "dog": "Talk Is Cheap"
-  },
-  {
-    "date": "2025-04-29",
-    "dog": "Dream On Allan"
-  },
-  {
-    "date": "2025-04-24",
-    "dog": "Daintree Spirit"
-  },
-  {
-    "date": "2025-04-22",
-    "dog": "Blinked"
-  },
-  {
-    "date": "2025-04-11",
-    "dog": "Wild Serena"
-  },
-  {
-    "date": "2025-04-08",
-    "dog": "Pretty Follie"
-  },
-  {
-    "date": "2025-04-03",
-    "dog": "Holtorf Bale"
-  },
-  {
-    "date": "2025-02-14",
-    "dog": "Soda Duke"
-  },
-  {
-    "date": "2025-01-17",
-    "dog": "Persuasion"
-  },
-  {
-    "date": "2025-01-09",
-    "dog": "Cuban Cigar"
-  },
-  {
-    "date": "2025-01-07",
-    "dog": "Tuff Toby"
-  },
-  {
-    "date": "2025-01-06",
-    "dog": "Maddy Giblet"
-  },
-  {
-    "date": "2024-12-03",
-    "dog": "Leo Bale"
-  },
-  {
-    "date": "2025-05-13",
-    "dog": "Paw Funk"
-  },
-  {
-    "date": "2025-05-13",
-    "dog": "Paw Lilibet"
-  },
-  {
-    "date": "2025-05-09",
-    "dog": "Mepunga Milly"
-  },
-  {
-    "date": "2025-05-09",
-    "dog": "Orson Fury"
-  },
-  {
-    "date": "2025-05-06",
-    "dog": "Nosey Parker"
-  },
-  {
-    "date": "2025-05-06",
-    "dog": "Paw Zuri"
-  },
-  {
-    "date": "2025-05-06",
-    "dog": "Vilma Bale"
-  },
-  {
-    "date": "2025-04-22",
-    "dog": "Tinker Dot"
-  },
-  {
-    "date": "2025-04-19",
-    "dog": "Genesis Bale"
-  },
-  {
-    "date": "2025-04-19",
-    "dog": "Let's Play Ball"
-  },
-  {
-    "date": "2025-02-18",
-    "dog": "Winslow Wish"
-  },
-  {
-    "date": "2025-03-03",
-    "dog": "Gallon Of Yap"
-  },
-  {
-    "date": "2025-02-24",
-    "dog": "Aston Katy"
-  },
-  {
-    "date": "2025-02-13",
-    "dog": "Paw Quark"
-  },
-  {
-    "date": "2024-12-26",
-    "dog": "Mr. Frankie Lee"
-  },
-  {
-    "date": "2025-05-15",
-    "dog": "Masseter"
-  },
-  {
-    "date": "2025-05-08",
-    "dog": "Nineteen Crimes"
-  },
-  {
-    "date": "2025-05-05",
-    "dog": "Paw Pascal"
-  },
-  {
-    "date": "2025-05-05",
-    "dog": "Paw Quail"
-  },
-  {
-    "date": "2025-04-28",
-    "dog": "Charlee's Tommy"
-  },
-  {
-    "date": "2025-04-28",
-    "dog": "Dell Mister"
-  },
-  {
-    "date": "2025-04-14",
-    "dog": "Short Notice"
-  },
-  {
-    "date": "2025-03-03",
-    "dog": "Boondocks"
-  },
-  {
-    "date": "2025-02-17",
-    "dog": "Paw Razor"
-  },
-  {
-    "date": "2025-03-05",
-    "dog": "Ultimate Warrior"
-  },
-  {
-    "date": "2025-02-19",
-    "dog": "Shima Ballad"
-  },
-  {
-    "date": "2025-02-12",
-    "dog": "Paw Xena"
-  },
-  {
-    "date": "2025-01-27",
-    "dog": "Bona Vista"
-  },
-  {
-    "date": "2025-05-12",
-    "dog": "Darra Sapphire"
-  },
-  {
-    "date": "2025-02-19",
-    "dog": "Gunai Bold"
-  },
-  {
-    "date": "2025-01-06",
-    "dog": "Pretty Panama"
-  },
-  {
-    "date": "2025-01-25",
-    "dog": "Regal Barry"
-  },
-  {
-    "date": "2025-01-17",
-    "dog": "Awesome Avenger"
-  },
-  {
-    "date": "2025-01-03",
-    "dog": "Rhythmic Energy"
-  },
-  {
-    "date": "2025-04-30",
-    "dog": "Dashing Nando"
-  },
-  {
-    "date": "2025-04-13",
-    "dog": "Borough Banker"
-  },
-  {
-    "date": "2025-03-07",
-    "dog": "Arlunya"
-  },
-  {
-    "date": "2025-03-07",
-    "dog": "Paw Jenneke"
-  },
-  {
-    "date": "2025-03-02",
-    "dog": "Paw Marvel"
-  },
-  {
-    "date": "2025-02-23",
-    "dog": "Is He Lucky"
-  },
-  {
-    "date": "2025-02-09",
-    "dog": "Dr. Asher"
-  },
-  {
-    "date": "2025-02-02",
-    "dog": "Dr. Asher"
-  },
-  {
-    "date": "2025-05-14",
-    "dog": "Mrs. Smith"
-  },
-  {
-    "date": "2025-04-20",
-    "dog": "Fabio Giblet"
-  },
-  {
-    "date": "2025-04-13",
-    "dog": "Smooth Collinda"
-  },
-  {
-    "date": "2024-12-26",
-    "dog": "Short Straw Trev"
-  },
-  {
-    "date": "2025-02-20",
-    "dog": "Pete's Entity"
-  },
-  {
-    "date": "2025-01-04",
-    "dog": "Belsar"
-  },
-  {
-    "date": "2025-03-08",
-    "dog": "Shima Blush"
+    "date": "2025-05-28",
+    "dog": "Set To Sizzle"
   },
   {
     "date": "2025-05-03",
-    "dog": "Trooper Tears"
+    "dog": "I'm Honey"
   },
   {
-    "date": "2024-11-20",
-    "dog": "Harvington"
+    "date": "2025-05-10",
+    "dog": "Paw Barton"
+  },
+  {
+    "date": "2025-06-26",
+    "dog": "Manager"
+  },
+  {
+    "date": "2025-06-10",
+    "dog": "Lewis"
+  },
+  {
+    "date": "2025-06-16",
+    "dog": "Slow Poke"
+  },
+  {
+    "date": "2025-06-25",
+    "dog": "Kid Luck"
   },
   {
     "date": "2025-05-07",
-    "dog": "Reuben Hill"
+    "dog": "Jetstream Icon"
   },
   {
-    "date": "2025-04-11",
-    "dog": "Cawbourne Sassy"
+    "date": "2025-05-21",
+    "dog": "Reality Best"
   },
   {
-    "date": "2025-04-11",
-    "dog": "Cawbourne Sassy"
+    "date": "2025-05-26",
+    "dog": "So You Assume"
   },
   {
-    "date": "2025-03-10",
-    "dog": "Super Max"
+    "date": "2025-06-11",
+    "dog": "Gloria's Entity"
   },
   {
-    "date": "2025-03-09",
-    "dog": "Furioso Rick"
+    "date": "2025-06-21",
+    "dog": "Wyong Gresham"
   },
   {
-    "date": "2025-03-08",
-    "dog": "Odysseus Bale"
+    "date": "2025-06-25",
+    "dog": "Talcott Bale"
   },
   {
-    "date": "2025-03-04",
-    "dog": "Brielle"
+    "date": "2025-06-05",
+    "dog": "Doongalla Rocket"
   },
   {
-    "date": "2025-03-04",
-    "dog": "Hartland Prince"
+    "date": "2025-06-12",
+    "dog": "Little Darl"
+  },
+  {
+    "date": "2025-06-19",
+    "dog": "Paw Verity"
+  },
+  {
+    "date": "2025-06-13",
+    "dog": "Canya Ultimate"
+  },
+  {
+    "date": "2025-06-18",
+    "dog": "Paw Quanda"
+  },
+  {
+    "date": "2025-06-25",
+    "dog": "Paw Alexis"
+  },
+  {
+    "date": "2025-06-08",
+    "dog": "Zipping Everdeen"
+  },
+  {
+    "date": "2025-06-16",
+    "dog": "Spring Miles"
+  },
+  {
+    "date": "2025-06-23",
+    "dog": "Winckie Bale"
   },
   {
     "date": "2025-02-28",
-    "dog": "Chasing Hearts"
+    "dog": "Paw Utility"
   },
   {
-    "date": "2025-02-26",
-    "dog": "Slippery Shark"
+    "date": "2025-03-08",
+    "dog": "Flash On By"
   },
   {
-    "date": "2025-02-25",
-    "dog": "Special Teams"
+    "date": "2025-06-04",
+    "dog": "Magnum Riot"
   },
   {
-    "date": "2025-02-25",
-    "dog": "Tanner Bale"
+    "date": "2025-06-14",
+    "dog": "Spring Regency"
   },
   {
-    "date": "2025-02-24",
-    "dog": "Ruby Rhode"
+    "date": "2025-06-20",
+    "dog": "Awesome Avenger"
   },
   {
-    "date": "2025-02-19",
-    "dog": "Lovely Lainey"
+    "date": "2025-02-18",
+    "dog": "Bull Durham"
+  },
+  {
+    "date": "2025-03-10",
+    "dog": "Fleetwood  Eros"
+  },
+  {
+    "date": "2025-03-20",
+    "dog": "Fleetwood  Eros"
   },
   {
     "date": "2025-02-17",
-    "dog": "Goliath"
+    "dog": "Aston Florin"
   },
   {
-    "date": "2025-02-12",
-    "dog": "Paw Vernon"
+    "date": "2025-02-24",
+    "dog": "Kraken Whisky"
   },
   {
-    "date": "2025-02-11",
-    "dog": "Bourbon Bullet"
+    "date": "2025-06-20",
+    "dog": "Play Lab"
   },
   {
-    "date": "2025-02-10",
-    "dog": "Is He Happy"
+    "date": "2025-06-20",
+    "dog": "Beach Bourbski"
   },
   {
-    "date": "2025-02-09",
-    "dog": "Chemical Erosion"
+    "date": "2025-06-13",
+    "dog": "Ballan Brumby"
   },
   {
-    "date": "2025-02-08",
-    "dog": "Collinda Pops"
+    "date": "2025-05-14",
+    "dog": "Paw Toronto"
   },
   {
-    "date": "2025-02-07",
-    "dog": "Over Reaction"
+    "date": "2025-06-19",
+    "dog": "Bowie Sunny"
   },
   {
-    "date": "2025-02-07",
-    "dog": "Milton Cranberry"
+    "date": "2025-06-25",
+    "dog": "Trumpet Tears"
   },
   {
-    "date": "2025-02-06",
-    "dog": "Our Regards"
-  },
-  {
-    "date": "2025-02-06",
-    "dog": "Paw Octavia"
-  },
-  {
-    "date": "2025-02-04",
-    "dog": "Aston Acacia"
-  },
-  {
-    "date": "2025-02-04",
-    "dog": "King Cherry"
-  },
-  {
-    "date": "2025-02-03",
-    "dog": "Inga Amy"
-  },
-  {
-    "date": "2025-01-31",
-    "dog": "Paw Xena"
-  },
-  {
-    "date": "2025-01-31",
-    "dog": "Inter Cyborg"
-  },
-  {
-    "date": "2025-01-31",
-    "dog": "Westside Wizard"
-  },
-  {
-    "date": "2025-01-31",
-    "dog": "My Three Boys"
-  },
-  {
-    "date": "2025-01-27",
-    "dog": "Paw Xabia"
-  },
-  {
-    "date": "2025-01-24",
-    "dog": "Big Ted"
-  },
-  {
-    "date": "2025-01-20",
-    "dog": "Got A Pulse"
-  },
-  {
-    "date": "2025-01-19",
-    "dog": "Buffalo Cowboy"
-  },
-  {
-    "date": "2025-01-17",
-    "dog": "King Litterbug"
-  },
-  {
-    "date": "2025-01-15",
-    "dog": "Millie"
-  },
-  {
-    "date": "2025-01-13",
-    "dog": "Killer Bee Cammy"
-  },
-  {
-    "date": "2025-01-12",
-    "dog": "Long Haul"
-  },
-  {
-    "date": "2025-01-10",
-    "dog": "Augustus Finch"
-  },
-  {
-    "date": "2025-01-09",
-    "dog": "Magic Miley"
-  },
-  {
-    "date": "2025-01-09",
-    "dog": "Holtorf Bale"
-  },
-  {
-    "date": "2025-01-05",
-    "dog": "Long Haul"
-  },
-  {
-    "date": "2025-01-02",
-    "dog": "Corinthian"
-  },
-  {
-    "date": "2024-12-31",
-    "dog": "Silver Taquisha"
-  },
-  {
-    "date": "2024-12-30",
-    "dog": "Arka Solar"
-  },
-  {
-    "date": "2024-12-26",
-    "dog": "Bounding Chief"
-  },
-  {
-    "date": "2024-12-18",
-    "dog": "Terrorising Tom"
-  },
-  {
-    "date": "2024-12-12",
-    "dog": "Harajuku Lass"
-  },
-  {
-    "date": "2024-12-11",
-    "dog": "No Iron Team"
-  },
-  {
-    "date": "2024-12-08",
-    "dog": "Hunter Fred"
-  },
-  {
-    "date": "2024-11-12",
-    "dog": "Dynamite Doug"
-  },
-  {
-    "date": "2024-11-12",
-    "dog": "He's Got Swag"
-  },
-  {
-    "date": "2024-11-08",
-    "dog": "Ice Ice Baby"
-  },
-  {
-    "date": "2024-11-03",
+    "date": "2025-06-05",
     "dog": "All Jazz"
   },
   {
-    "date": "2024-09-11",
-    "dog": "Bounding Chief"
+    "date": "2025-06-20",
+    "dog": "All Jazz"
+  },
+  {
+    "date": "2025-06-27",
+    "dog": "Jill's Juliette"
+  },
+  {
+    "date": "2025-06-03",
+    "dog": "Angry Chief"
+  },
+  {
+    "date": "2025-06-13",
+    "dog": "Mr. Thomas"
+  },
+  {
+    "date": "2025-06-19",
+    "dog": "Mr. Thomas"
+  },
+  {
+    "date": "2025-06-05",
+    "dog": "Queen Shaka"
+  },
+  {
+    "date": "2025-06-13",
+    "dog": "Ferret's Knock"
+  },
+  {
+    "date": "2025-06-19",
+    "dog": "Aston Rayner"
+  },
+  {
+    "date": "2025-06-12",
+    "dog": "Maia"
+  },
+  {
+    "date": "2025-06-17",
+    "dog": "White Crest"
+  },
+  {
+    "date": "2025-06-23",
+    "dog": "Ultimate Warrior"
+  },
+  {
+    "date": "2025-05-21",
+    "dog": "Shima Time"
+  },
+  {
+    "date": "2025-06-20",
+    "dog": "Field Day"
+  },
+  {
+    "date": "2025-06-25",
+    "dog": "Over Achiever"
+  },
+  {
+    "date": "2025-06-11",
+    "dog": "Blue Vendetta"
+  },
+  {
+    "date": "2025-06-17",
+    "dog": "Kiani Star"
+  },
+  {
+    "date": "2025-06-27",
+    "dog": "Myola Nick"
+  },
+  {
+    "date": "2025-05-19",
+    "dog": "Packham Prince"
+  },
+  {
+    "date": "2025-05-24",
+    "dog": "Paw Uma"
+  },
+  {
+    "date": "2025-06-04",
+    "dog": "Paw Summer"
+  },
+  {
+    "date": "2025-06-12",
+    "dog": "Tarawi Therese"
+  },
+  {
+    "date": "2025-06-19",
+    "dog": "Delicate"
+  },
+  {
+    "date": "2025-06-28",
+    "dog": "Tammy McIvor"
+  },
+  {
+    "date": "2025-06-16",
+    "dog": "Beach Bourbski"
+  },
+  {
+    "date": "2025-06-27",
+    "dog": "Tara's Lily"
+  },
+  {
+    "date": "2025-04-10",
+    "dog": "Elite Intention"
+  },
+  {
+    "date": "2025-06-19",
+    "dog": "Paw Whistler"
+  },
+  {
+    "date": "2025-06-11",
+    "dog": "Nova'S Fern"
+  },
+  {
+    "date": "2025-06-18",
+    "dog": "Ascend Hibiscus"
+  },
+  {
+    "date": "2025-06-25",
+    "dog": "Fast Reply"
+  },
+  {
+    "date": "2025-06-11",
+    "dog": "Come Find Me"
+  },
+  {
+    "date": "2025-06-18",
+    "dog": "Magic Snowdrop"
+  },
+  {
+    "date": "2025-06-26",
+    "dog": "Valedictorian"
+  },
+  {
+    "date": "2025-06-13",
+    "dog": "Quest For Angel"
+  },
+  {
+    "date": "2025-06-18",
+    "dog": "Flood Warning"
+  },
+  {
+    "date": "2025-06-26",
+    "dog": "Aston Joplin"
+  },
+  {
+    "date": "2025-06-03",
+    "dog": "Fuji Apple"
+  },
+  {
+    "date": "2025-06-18",
+    "dog": "Panadero Ruby"
+  },
+  {
+    "date": "2025-06-25",
+    "dog": "Paw Inflame"
+  },
+  {
+    "date": "2025-06-04",
+    "dog": "Lightning Quick"
+  },
+  {
+    "date": "2025-06-18",
+    "dog": "Paw Zenith"
+  },
+  {
+    "date": "2025-06-28",
+    "dog": "Keep Rolling"
+  },
+  {
+    "date": "2025-06-13",
+    "dog": "Paw Gregson"
+  },
+  {
+    "date": "2025-05-23",
+    "dog": "Warm Hugs"
+  },
+  {
+    "date": "2025-06-11",
+    "dog": "Crackerjack Bull"
+  },
+  {
+    "date": "2025-06-20",
+    "dog": "Magical Star"
+  },
+  {
+    "date": "2025-06-25",
+    "dog": "Only Easy"
+  },
+  {
+    "date": "2025-05-31",
+    "dog": "Field Day"
+  },
+  {
+    "date": "2025-06-07",
+    "dog": "Gremlin"
+  },
+  {
+    "date": "2025-06-14",
+    "dog": "Doongalla Don"
+  },
+  {
+    "date": "2025-06-12",
+    "dog": "Upset Sunset"
+  },
+  {
+    "date": "2025-06-18",
+    "dog": "Sweet Sundown"
+  },
+  {
+    "date": "2025-06-28",
+    "dog": "Kiwi Jay"
   }
 ]
