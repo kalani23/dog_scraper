@@ -1,0 +1,75 @@
+name: Dog Race Scraper
+
+on:
+  workflow_dispatch:
+    inputs:
+      num_workers:
+        description: 'Parallel workers (3-5 recommended, max 10)'
+        required: true
+        default: '3'
+        type: choice
+        options:
+          - '1'
+          - '2'
+          - '3'
+          - '4'
+          - '5'
+          - '6'
+          - '7'
+          - '8'
+          - '9'
+          - '10'
+      gist_id:
+        description: 'Gist ID for live log'
+        required: false
+        type: string
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Python setup
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Chrome
+        run: |
+          wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+          sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
+          sudo apt-get update -q
+          sudo apt-get install -y google-chrome-stable xvfb
+
+      - name: Install Python deps
+        run: pip install seleniumbase openpyxl lxml
+
+      - name: Fix driver permissions
+        run: |
+          find /opt/hostedtoolcache -name "uc_driver" -exec chmod 777 {} \; 2>/dev/null || true
+          find /opt/hostedtoolcache -path "*/seleniumbase/drivers*" -exec chmod 777 {} \; 2>/dev/null || true
+
+      - name: Run scraper
+        env:
+          NUM_WORKERS: ${{ github.event.inputs.num_workers }}
+          INPUT_FILE: input.json
+          DISPLAY: ':99.0'
+          GH_TOKEN: ${{ secrets.SCRAPER_TOKEN }}
+          GIST_ID: ${{ github.event.inputs.gist_id }}
+        run: |
+          Xvfb :99 -screen 0 1366x768x24 -ac &
+          sleep 3
+          mkdir -p output
+          python scraper/runner.py
+
+      - name: Upload results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scraper-output
+          path: output/
+          retention-days: 1
