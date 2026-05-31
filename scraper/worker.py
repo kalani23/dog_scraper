@@ -282,31 +282,37 @@ def run_worker(worker_id, chunk, output_csv):
             log(f"[{idx+1}/{len(chunk)}] {dog_name} | {date_str}")
 
             slug = dog_name_to_slug(dog_name)
+            target_fmt = date_to_site_format(date)
 
-            # Try base slug first, then -1, -2, -3 suffixes
-            # Site uses suffixes when multiple dogs share the same name
-            html = ""
-            tried_slug = slug
-            for suffix in ["", "-1", "-2", "-3"]:
+            # Step 1: Discover all existing versions of this dog name
+            # Check base + suffixes 1-9, collect all that exist as valid profiles
+            existing = []
+            for suffix in ["", "-1", "-2", "-3", "-4", "-5", "-6", "-7", "-8", "-9"]:
                 try_slug = slug + suffix
                 candidate = fetch(driver, f"{BASE_URL}/greyhounds/{try_slug}/", log)
-                if candidate and len(candidate) > 500:
-                    # Check it's actually a dog profile not a 404
-                    if "greyhound-form-racing-results__table" in candidate or                        "greyhound-info__heading" in candidate:
-                        html = candidate
-                        tried_slug = try_slug
-                        if suffix:
-                            log(f"  Found with suffix: {try_slug}")
-                        break
-                    elif suffix == "":
-                        # First try returned something but no race table
-                        # could be a valid profile with no races yet, keep it
-                        html = candidate
+                if candidate and len(candidate) > 500 and "greyhound-info__heading" in candidate:
+                    existing.append((try_slug, candidate))
+                    log(f"  Found profile: {try_slug}")
+                else:
+                    if suffix != "":
+                        # Once we hit a missing suffix, stop looking higher
                         break
 
+            log(f"  Total profiles found for '{dog_name}': {len(existing)}")
+
+            # Step 2: Search from highest version down for the target date
+            html = ""
+            for try_slug, candidate in reversed(existing):
+                if target_fmt in candidate:
+                    html = candidate
+                    log(f"  Matched: {try_slug} has date {target_fmt}")
+                    break
+                else:
+                    log(f"  {try_slug} exists but no date {target_fmt}")
+
             if not html:
-                log(f"  Profile not found — skipping")
-                failed.append({**item, "reason": "profile_not_found"})
+                log(f"  No profile found with date {target_fmt} for {dog_name}")
+                failed.append({**item, "reason": f"no_profile_with_date_{target_fmt}"})
                 continue
 
             profile_info = parse_dog_profile(html)
