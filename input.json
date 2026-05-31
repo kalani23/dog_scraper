@@ -1,54 +1,2402 @@
 [
   {
-    "date": "2026-05-12",
-    "dog": "Smash"
+    "date": "2026-03-07",
+    "dog": "Paw Varna"
   },
   {
-    "date": "2026-05-11",
-    "dog": "Thrill Seeker"
+    "date": "2026-03-06",
+    "dog": "Canya Maroons"
   },
   {
-    "date": "2026-05-11",
-    "dog": "Lektra Damian"
+    "date": "2026-03-06",
+    "dog": "Edie Monsoon"
   },
   {
-    "date": "2026-05-07",
-    "dog": "Don'T Look"
+    "date": "2026-03-06",
+    "dog": "Biscottino"
   },
   {
-    "date": "2026-05-01",
-    "dog": "Wax Off"
+    "date": "2026-03-06",
+    "dog": "Dr. Will"
   },
   {
-    "date": "2026-04-30",
+    "date": "2026-03-06",
+    "dog": "Jill'S Juliette"
+  },
+  {
+    "date": "2026-03-06",
+    "dog": "Paw Zevon"
+  },
+  {
+    "date": "2026-03-06",
+    "dog": "Blue Storm"
+  },
+  {
+    "date": "2026-03-06",
+    "dog": "Aston Moreno"
+  },
+  {
+    "date": "2026-03-06",
+    "dog": "Aston Lace"
+  },
+  {
+    "date": "2026-03-05",
+    "dog": "Tokyo Romance"
+  },
+  {
+    "date": "2026-03-05",
+    "dog": "Old Habits"
+  },
+  {
+    "date": "2026-03-05",
+    "dog": "Aston Saturn"
+  },
+  {
+    "date": "2026-03-05",
+    "dog": "Aston Gleam"
+  },
+  {
+    "date": "2026-03-05",
+    "dog": "Mepunga Infrared"
+  },
+  {
+    "date": "2026-03-05",
+    "dog": "Paw Raynor"
+  },
+  {
+    "date": "2026-03-05",
+    "dog": "Star Fury"
+  },
+  {
+    "date": "2026-03-05",
+    "dog": "Marco Marco"
+  },
+  {
+    "date": "2026-03-05",
+    "dog": "Val'S Legacy"
+  },
+  {
+    "date": "2026-03-05",
+    "dog": "Moraine Koby"
+  },
+  {
+    "date": "2026-03-05",
+    "dog": "Zambora Bliss"
+  },
+  {
+    "date": "2026-03-05",
+    "dog": "Paw Natullo"
+  },
+  {
+    "date": "2026-03-05",
+    "dog": "Cash In View"
+  },
+  {
+    "date": "2026-03-05",
+    "dog": "Kade'S Thunder"
+  },
+  {
+    "date": "2026-03-05",
+    "dog": "Blackpool Finn"
+  },
+  {
+    "date": "2026-03-05",
+    "dog": "Air Speed"
+  },
+  {
+    "date": "2026-03-05",
+    "dog": "Paw Bautista"
+  },
+  {
+    "date": "2026-03-05",
+    "dog": "Aston Ellie"
+  },
+  {
+    "date": "2026-03-05",
+    "dog": "Fred The Fox"
+  },
+  {
+    "date": "2026-03-05",
+    "dog": "Lassard"
+  },
+  {
+    "date": "2026-03-05",
+    "dog": "Still Believe"
+  },
+  {
+    "date": "2026-03-05",
+    "dog": "Jarmon"
+  },
+  {
+    "date": "2026-03-05",
+    "dog": "Good Value"
+  },
+  {
+    "date": "2026-03-05",
+    "dog": "Estrada"
+  },
+  {
+    "date": "2026-03-05",
+    "dog": "Kokeri"
+  },
+  {
+    "date": "2026-03-05",
+    "dog": "Cross Locks"
+  },
+  {
+    "date": "2026-03-05",
+    "dog": "Hooked On Gin"
+  },
+  {
+    "date": "2026-03-05",
+    "dog": "Belgium Slice"
+  },
+  {
+    "date": "2026-03-04",
+    "dog": "Paw Gusto"
+  },
+  {
+    "date": "2026-03-04",
+    "dog": "Paw Brody"
+  },
+  {
+    "date": "2026-03-04",
+    "dog": "Paw Clarissa"
+  },
+  {
+    "date": "2026-03-04",
+    "dog": "Our Patch"
+  },
+  {
+    "date": "2026-03-04",
+    "dog": "White Crest"
+  },
+  {
+    "date": "2026-03-04",
+    "dog": "How Awesome"
+  },
+  {
+    "date": "2026-03-04",
+    "dog": "Phoenix Red"
+  },
+  {
+    "date": "2026-03-04",
+    "dog": "Paw Missy"
+  },
+  {
+    "date": "2026-03-04",
+    "dog": "Oklahoma Bale"
+  },
+  {
+    "date": "2026-03-04",
+    "dog": "Hoppy"
+  },
+  {
+    "date": "2026-03-03",
+    "dog": "Zari Desiree"
+  },
+  {
+    "date": "2026-03-03",
+    "dog": "Among Stars"
+  },
+  {
+    "date": "2026-03-03",
+    "dog": "Comeback Charlie"
+  },
+  {
+    "date": "2026-03-03",
+    "dog": "Lektra Princess"
+  },
+  {
+    "date": "2026-03-03",
+    "dog": "Paw Vance"
+  },
+  {
+    "date": "2026-03-03",
+    "dog": "Paw Vitali"
+  },
+  {
+    "date": "2026-03-03",
+    "dog": "Paw Estrella"
+  },
+  {
+    "date": "2026-03-03",
+    "dog": "Rock Eternal"
+  },
+  {
+    "date": "2026-03-03",
+    "dog": "Paw Ramello"
+  },
+  {
+    "date": "2026-03-03",
+    "dog": "Dad'S Surprise"
+  },
+  {
+    "date": "2026-03-03",
+    "dog": "Aston Chant"
+  },
+  {
+    "date": "2026-03-03",
+    "dog": "Moraine Joker"
+  },
+  {
+    "date": "2026-03-03",
+    "dog": "Archie'S Gift"
+  },
+  {
+    "date": "2026-03-02",
+    "dog": "Aventis"
+  },
+  {
+    "date": "2026-03-02",
+    "dog": "Summer Hail"
+  },
+  {
+    "date": "2026-03-02",
+    "dog": "Aston Cleese"
+  },
+  {
+    "date": "2026-03-02",
+    "dog": "Harmonica"
+  },
+  {
+    "date": "2026-03-02",
+    "dog": "Naringal Boy"
+  },
+  {
+    "date": "2026-03-02",
+    "dog": "Power Affect"
+  },
+  {
+    "date": "2026-03-02",
+    "dog": "Play Lab"
+  },
+  {
+    "date": "2026-03-02",
+    "dog": "Little Miss May"
+  },
+  {
+    "date": "2026-03-02",
+    "dog": "Paw Danger"
+  },
+  {
+    "date": "2026-03-02",
+    "dog": "Sharapova Star"
+  },
+  {
+    "date": "2026-03-02",
+    "dog": "Insane"
+  },
+  {
+    "date": "2026-03-02",
+    "dog": "Miss Coco"
+  },
+  {
+    "date": "2026-03-02",
+    "dog": "Glamour Zone"
+  },
+  {
+    "date": "2026-03-02",
+    "dog": "Righteous Fury"
+  },
+  {
+    "date": "2026-03-02",
+    "dog": "Seats Two"
+  },
+  {
+    "date": "2026-03-02",
+    "dog": "Bella Supreme"
+  },
+  {
+    "date": "2026-03-02",
+    "dog": "Son Of Sybil"
+  },
+  {
+    "date": "2026-03-02",
+    "dog": "Laserhawk"
+  },
+  {
+    "date": "2026-03-02",
+    "dog": "Space Invader"
+  },
+  {
+    "date": "2026-03-02",
+    "dog": "Olympic History"
+  },
+  {
+    "date": "2026-03-02",
+    "dog": "Kaluna Chaos"
+  },
+  {
+    "date": "2026-03-02",
+    "dog": "Gray Grouper"
+  },
+  {
+    "date": "2026-03-02",
+    "dog": "Ripped Paige"
+  },
+  {
+    "date": "2026-03-02",
+    "dog": "Aussie Wagyu"
+  },
+  {
+    "date": "2026-03-02",
+    "dog": "Donkey Fly"
+  },
+  {
+    "date": "2026-03-01",
+    "dog": "Compton Shelly"
+  },
+  {
+    "date": "2026-03-01",
+    "dog": "Settle For Less"
+  },
+  {
+    "date": "2026-03-01",
+    "dog": "Shima Moon"
+  },
+  {
+    "date": "2026-03-01",
+    "dog": "One Feather"
+  },
+  {
+    "date": "2026-03-01",
+    "dog": "Evil Eye"
+  },
+  {
+    "date": "2026-03-01",
+    "dog": "Trial King"
+  },
+  {
+    "date": "2026-03-01",
+    "dog": "Poke Salad Annie"
+  },
+  {
+    "date": "2026-03-01",
+    "dog": "Compton Bowie"
+  },
+  {
+    "date": "2026-03-01",
+    "dog": "Select Airley"
+  },
+  {
+    "date": "2026-03-01",
+    "dog": "Top Kade"
+  },
+  {
+    "date": "2026-03-01",
+    "dog": "Dr. Leviate"
+  },
+  {
+    "date": "2026-02-28",
+    "dog": "Paw Ramello"
+  },
+  {
+    "date": "2026-02-28",
+    "dog": "Miner Mick"
+  },
+  {
+    "date": "2026-02-28",
+    "dog": "Cheeky Mila"
+  },
+  {
+    "date": "2026-02-28",
+    "dog": "Smart As Rose"
+  },
+  {
+    "date": "2026-02-28",
+    "dog": "Sir Trenton"
+  },
+  {
+    "date": "2026-02-28",
+    "dog": "Thai Tiger"
+  },
+  {
+    "date": "2026-02-28",
+    "dog": "Cheeky Alessia"
+  },
+  {
+    "date": "2026-02-27",
+    "dog": "Amron Lucy"
+  },
+  {
+    "date": "2026-02-27",
+    "dog": "Aston Lace"
+  },
+  {
+    "date": "2026-02-27",
+    "dog": "Jilliby Pixie"
+  },
+  {
+    "date": "2026-02-27",
+    "dog": "Secrets We Keep"
+  },
+  {
+    "date": "2026-02-27",
+    "dog": "Come And See"
+  },
+  {
+    "date": "2026-02-27",
+    "dog": "Vintage Velvet"
+  },
+  {
+    "date": "2026-02-27",
+    "dog": "Paw Varner"
+  },
+  {
+    "date": "2026-02-27",
+    "dog": "Inspection"
+  },
+  {
+    "date": "2026-02-27",
+    "dog": "Percy"
+  },
+  {
+    "date": "2026-02-27",
+    "dog": "Paw Estrella"
+  },
+  {
+    "date": "2026-02-27",
+    "dog": "Lissy'S A Demon"
+  },
+  {
+    "date": "2026-02-27",
+    "dog": "Hokkaido Express"
+  },
+  {
+    "date": "2026-02-27",
+    "dog": "Paw Otis"
+  },
+  {
+    "date": "2026-02-27",
+    "dog": "Here Comes Billy"
+  },
+  {
+    "date": "2026-02-27",
+    "dog": "Zero Killer"
+  },
+  {
+    "date": "2026-02-27",
+    "dog": "Aston Monarchy"
+  },
+  {
+    "date": "2026-02-27",
+    "dog": "Sterling Inn"
+  },
+  {
+    "date": "2026-02-27",
+    "dog": "Paw Ballista"
+  },
+  {
+    "date": "2026-02-27",
+    "dog": "Test Drive"
+  },
+  {
+    "date": "2026-02-27",
+    "dog": "Paw Xena"
+  },
+  {
+    "date": "2026-02-27",
+    "dog": "Buck Shines"
+  },
+  {
+    "date": "2026-02-26",
+    "dog": "Axioms"
+  },
+  {
+    "date": "2026-02-26",
+    "dog": "Sand Dunes"
+  },
+  {
+    "date": "2026-02-26",
+    "dog": "Impress Joe"
+  },
+  {
+    "date": "2026-02-26",
+    "dog": "Rock It Kathy"
+  },
+  {
+    "date": "2026-02-26",
+    "dog": "Pilot Prince"
+  },
+  {
+    "date": "2026-02-26",
+    "dog": "Hara Hachi Bu"
+  },
+  {
+    "date": "2026-02-26",
+    "dog": "Paw Natullo"
+  },
+  {
+    "date": "2026-02-26",
+    "dog": "Man Of Courage"
+  },
+  {
+    "date": "2026-02-26",
+    "dog": "Rivia Umiko"
+  },
+  {
+    "date": "2026-02-26",
+    "dog": "Myola Nick"
+  },
+  {
+    "date": "2026-02-26",
+    "dog": "Paw Sherman"
+  },
+  {
+    "date": "2026-02-26",
+    "dog": "Trust Deed"
+  },
+  {
+    "date": "2026-02-26",
+    "dog": "Lektra Bills"
+  },
+  {
+    "date": "2026-02-26",
+    "dog": "Bush Mayhem"
+  },
+  {
+    "date": "2026-02-26",
+    "dog": "Saint Xavier"
+  },
+  {
+    "date": "2026-02-26",
+    "dog": "Western Feel"
+  },
+  {
+    "date": "2026-02-26",
+    "dog": "Moraine Koby"
+  },
+  {
+    "date": "2026-02-26",
+    "dog": "Sekola Blue"
+  },
+  {
+    "date": "2026-02-26",
+    "dog": "Bestower"
+  },
+  {
+    "date": "2026-02-26",
+    "dog": "Sheikh Of Tweak"
+  },
+  {
+    "date": "2026-02-26",
+    "dog": "Tat Buddy"
+  },
+  {
+    "date": "2026-02-26",
+    "dog": "Gold Gizmo"
+  },
+  {
+    "date": "2026-02-26",
+    "dog": "Baby Beets"
+  },
+  {
+    "date": "2026-02-26",
+    "dog": "Waltzing Blaster"
+  },
+  {
+    "date": "2026-02-26",
+    "dog": "It'S Friday"
+  },
+  {
+    "date": "2026-02-26",
+    "dog": "Flat Chat"
+  },
+  {
+    "date": "2026-02-25",
+    "dog": "Everglow"
+  },
+  {
+    "date": "2026-02-25",
+    "dog": "Seger"
+  },
+  {
+    "date": "2026-02-25",
+    "dog": "Tipsy Turtle"
+  },
+  {
+    "date": "2026-02-25",
+    "dog": "Paw Linden"
+  },
+  {
+    "date": "2026-02-25",
+    "dog": "Eat Your Spinach"
+  },
+  {
+    "date": "2026-02-25",
+    "dog": "Berserker Viking"
+  },
+  {
+    "date": "2026-02-25",
+    "dog": "Zari Desiree"
+  },
+  {
+    "date": "2026-02-25",
+    "dog": "Trajectory"
+  },
+  {
+    "date": "2026-02-25",
+    "dog": "Aston Warrior"
+  },
+  {
+    "date": "2026-02-25",
+    "dog": "Ultra Pub Run"
+  },
+  {
+    "date": "2026-02-25",
+    "dog": "Aunty Cheryl"
+  },
+  {
+    "date": "2026-02-25",
+    "dog": "Louie Cabang"
+  },
+  {
+    "date": "2026-02-25",
+    "dog": "Lethal Force"
+  },
+  {
+    "date": "2026-02-24",
+    "dog": "Flying Ducati"
+  },
+  {
+    "date": "2026-02-24",
+    "dog": "Cruising Nat"
+  },
+  {
+    "date": "2026-02-24",
+    "dog": "Aston Haruto"
+  },
+  {
+    "date": "2026-02-24",
+    "dog": "Super Seafarer"
+  },
+  {
+    "date": "2026-02-24",
+    "dog": "Saint Raine"
+  },
+  {
+    "date": "2026-02-24",
+    "dog": "Starbright Hud"
+  },
+  {
+    "date": "2026-02-24",
+    "dog": "Paw Kenneth"
+  },
+  {
+    "date": "2026-02-24",
+    "dog": "Paw Atreides"
+  },
+  {
+    "date": "2026-02-24",
+    "dog": "Glimmer Of Hope"
+  },
+  {
+    "date": "2026-02-24",
+    "dog": "Flying Blossom"
+  },
+  {
+    "date": "2026-02-24",
+    "dog": "Holly Blue Girl"
+  },
+  {
+    "date": "2026-02-24",
+    "dog": "Little Miss May"
+  },
+  {
+    "date": "2026-02-24",
+    "dog": "Rocky Ray"
+  },
+  {
+    "date": "2026-02-24",
+    "dog": "Paw Fredia"
+  },
+  {
+    "date": "2026-02-24",
+    "dog": "Remi Joy"
+  },
+  {
+    "date": "2026-02-24",
+    "dog": "No More Extras"
+  },
+  {
+    "date": "2026-02-24",
+    "dog": "Mermaid Lady"
+  },
+  {
+    "date": "2026-02-24",
+    "dog": "Little Flower"
+  },
+  {
+    "date": "2026-02-24",
+    "dog": "Star Of Venus"
+  },
+  {
+    "date": "2026-02-23",
+    "dog": "Western'S Nasiah"
+  },
+  {
+    "date": "2026-02-23",
+    "dog": "Shima Sand"
+  },
+  {
+    "date": "2026-02-23",
+    "dog": "Aston Fontaine"
+  },
+  {
+    "date": "2026-02-23",
+    "dog": "Collective Kaos"
+  },
+  {
+    "date": "2026-02-23",
+    "dog": "Paw Estrella"
+  },
+  {
+    "date": "2026-02-23",
+    "dog": "Noctilucent"
+  },
+  {
+    "date": "2026-02-23",
+    "dog": "Reiko Comet"
+  },
+  {
+    "date": "2026-02-23",
+    "dog": "Can She Yap"
+  },
+  {
+    "date": "2026-02-23",
+    "dog": "Naughty Norm"
+  },
+  {
+    "date": "2026-02-23",
+    "dog": "This Black Duck"
+  },
+  {
+    "date": "2026-02-23",
+    "dog": "Pyrenees Pizazz"
+  },
+  {
+    "date": "2026-02-23",
+    "dog": "Stifler"
+  },
+  {
+    "date": "2026-02-23",
+    "dog": "Rumour I'M Broke"
+  },
+  {
+    "date": "2026-02-23",
+    "dog": "Complex Thinking"
+  },
+  {
+    "date": "2026-02-22",
+    "dog": "Slick Angel"
+  },
+  {
+    "date": "2026-02-22",
+    "dog": "Dell Mister"
+  },
+  {
+    "date": "2026-02-22",
+    "dog": "Shima Lite"
+  },
+  {
+    "date": "2026-02-22",
+    "dog": "Nod Feeny"
+  },
+  {
+    "date": "2026-02-22",
+    "dog": "Galba Stacey"
+  },
+  {
+    "date": "2026-02-22",
+    "dog": "Cinematic"
+  },
+  {
+    "date": "2026-02-22",
+    "dog": "Nola Keeping"
+  },
+  {
+    "date": "2026-02-22",
+    "dog": "Is He Lucky"
+  },
+  {
+    "date": "2026-02-21",
+    "dog": "Dustin"
+  },
+  {
+    "date": "2026-02-21",
+    "dog": "Ripping It Up"
+  },
+  {
+    "date": "2026-02-21",
+    "dog": "Bronelly Timmy"
+  },
+  {
+    "date": "2026-02-21",
+    "dog": "Handful Of Cash"
+  },
+  {
+    "date": "2026-02-21",
+    "dog": "Key Begonia"
+  },
+  {
+    "date": "2026-02-21",
+    "dog": "Dookie Giblet"
+  },
+  {
+    "date": "2026-02-21",
+    "dog": "Paw Nickara"
+  },
+  {
+    "date": "2026-02-21",
+    "dog": "Paw Atreides"
+  },
+  {
+    "date": "2026-02-20",
+    "dog": "Paw Winkworth"
+  },
+  {
+    "date": "2026-02-20",
+    "dog": "Kid Gulla"
+  },
+  {
+    "date": "2026-02-20",
+    "dog": "Snow Road"
+  },
+  {
+    "date": "2026-02-20",
+    "dog": "Percy"
+  },
+  {
+    "date": "2026-02-20",
+    "dog": "Zero Killer"
+  },
+  {
+    "date": "2026-02-20",
+    "dog": "Paw Kenneth"
+  },
+  {
+    "date": "2026-02-20",
+    "dog": "Solitary Flicker"
+  },
+  {
+    "date": "2026-02-20",
+    "dog": "Frog March"
+  },
+  {
+    "date": "2026-02-20",
+    "dog": "Aston Ace"
+  },
+  {
+    "date": "2026-02-20",
+    "dog": "Blackpool Iris"
+  },
+  {
+    "date": "2026-02-20",
+    "dog": "Fear The Beer"
+  },
+  {
+    "date": "2026-02-20",
+    "dog": "Idyllic James"
+  },
+  {
+    "date": "2026-02-20",
+    "dog": "Somerton Willow"
+  },
+  {
+    "date": "2026-02-20",
+    "dog": "Rupee Star"
+  },
+  {
+    "date": "2026-02-20",
+    "dog": "Karachi"
+  },
+  {
+    "date": "2026-02-20",
+    "dog": "One For Bill"
+  },
+  {
+    "date": "2026-02-20",
+    "dog": "Jumbuk Sloppy"
+  },
+  {
+    "date": "2026-02-20",
+    "dog": "Better Banjo"
+  },
+  {
+    "date": "2026-02-20",
+    "dog": "Play Lab"
+  },
+  {
+    "date": "2026-02-20",
+    "dog": "Stojanovic"
+  },
+  {
+    "date": "2026-02-20",
+    "dog": "Grapefruit Racer"
+  },
+  {
+    "date": "2026-02-19",
+    "dog": "Cadillac Girl"
+  },
+  {
+    "date": "2026-02-19",
     "dog": "Linda Lou"
   },
   {
-    "date": "2026-04-27",
+    "date": "2026-02-19",
+    "dog": "Miner Mick"
+  },
+  {
+    "date": "2026-02-19",
+    "dog": "Living"
+  },
+  {
+    "date": "2026-02-19",
+    "dog": "Neymar Nismo"
+  },
+  {
+    "date": "2026-02-19",
+    "dog": "Blue Roses"
+  },
+  {
+    "date": "2026-02-19",
+    "dog": "Priority Report"
+  },
+  {
+    "date": "2026-02-19",
+    "dog": "Paw Reya"
+  },
+  {
+    "date": "2026-02-19",
+    "dog": "Ishikawa Lass"
+  },
+  {
+    "date": "2026-02-19",
+    "dog": "Air Speed"
+  },
+  {
+    "date": "2026-02-19",
+    "dog": "Paw Ensley"
+  },
+  {
+    "date": "2026-02-19",
+    "dog": "Magic Bocca"
+  },
+  {
+    "date": "2026-02-19",
+    "dog": "She'S A Jumbo"
+  },
+  {
+    "date": "2026-02-19",
+    "dog": "Cindy Siyan"
+  },
+  {
+    "date": "2026-02-19",
+    "dog": "Black Friday"
+  },
+  {
+    "date": "2026-02-19",
+    "dog": "Snitch Adams"
+  },
+  {
+    "date": "2026-02-19",
+    "dog": "Rae'S Rainbow"
+  },
+  {
+    "date": "2026-02-19",
+    "dog": "Irish Carla"
+  },
+  {
+    "date": "2026-02-19",
+    "dog": "Brodie'S Shadow"
+  },
+  {
+    "date": "2026-02-18",
+    "dog": "Duran Nirvana"
+  },
+  {
+    "date": "2026-02-18",
+    "dog": "Kiwi Henry"
+  },
+  {
+    "date": "2026-02-18",
+    "dog": "Oriental Ophelia"
+  },
+  {
+    "date": "2026-02-18",
+    "dog": "Tipsy Tilly"
+  },
+  {
+    "date": "2026-02-18",
+    "dog": "Paw Damon"
+  },
+  {
+    "date": "2026-02-18",
+    "dog": "Doongalla Jessie"
+  },
+  {
+    "date": "2026-02-18",
+    "dog": "Goblin"
+  },
+  {
+    "date": "2026-02-18",
     "dog": "Bragging Rights"
   },
   {
-    "date": "2026-04-23",
-    "dog": "Inclination"
+    "date": "2026-02-18",
+    "dog": "Jed'S Memory"
   },
   {
-    "date": "2026-04-23",
-    "dog": "Not Again"
+    "date": "2026-02-18",
+    "dog": "Never Ever Late"
   },
   {
-    "date": "2026-04-23",
-    "dog": "Sketchy Demos"
+    "date": "2026-02-18",
+    "dog": "Slick Time"
   },
   {
-    "date": "2026-04-23",
-    "dog": "Speechless"
+    "date": "2026-02-18",
+    "dog": "Paw Eden"
   },
   {
-    "date": "2026-04-23",
-    "dog": "Never Surrender"
+    "date": "2026-02-17",
+    "dog": "Blame Karissa"
   },
   {
-    "date": "2026-04-17",
-    "dog": "Not Again"
+    "date": "2026-02-17",
+    "dog": "Got Immunity"
+  },
+  {
+    "date": "2026-02-17",
+    "dog": "Zealous Reiko"
+  },
+  {
+    "date": "2026-02-17",
+    "dog": "Mighty Mikado"
+  },
+  {
+    "date": "2026-02-17",
+    "dog": "Eagle Tegan"
+  },
+  {
+    "date": "2026-02-17",
+    "dog": "Reality Surprise"
+  },
+  {
+    "date": "2026-02-17",
+    "dog": "Cackling Suzie"
+  },
+  {
+    "date": "2026-02-17",
+    "dog": "Holly'S Folly"
+  },
+  {
+    "date": "2026-02-17",
+    "dog": "Doongalla Pedro"
+  },
+  {
+    "date": "2026-02-17",
+    "dog": "Ubiquitous"
+  },
+  {
+    "date": "2026-02-17",
+    "dog": "Sicily"
+  },
+  {
+    "date": "2026-02-17",
+    "dog": "Paw Rival"
+  },
+  {
+    "date": "2026-02-17",
+    "dog": "Aston Laser"
+  },
+  {
+    "date": "2026-02-17",
+    "dog": "Tommy The Frog"
+  },
+  {
+    "date": "2026-02-17",
+    "dog": "Major Lose"
+  },
+  {
+    "date": "2026-02-17",
+    "dog": "Heart"
+  },
+  {
+    "date": "2026-02-17",
+    "dog": "Perfect Jenny"
+  },
+  {
+    "date": "2026-02-16",
+    "dog": "Scott Sigma"
+  },
+  {
+    "date": "2026-02-16",
+    "dog": "Notorious Milo"
+  },
+  {
+    "date": "2026-02-16",
+    "dog": "Ocean Burn"
+  },
+  {
+    "date": "2026-02-16",
+    "dog": "Moraine Quinn"
+  },
+  {
+    "date": "2026-02-16",
+    "dog": "Tornado Tahlia"
+  },
+  {
+    "date": "2026-02-16",
+    "dog": "Paw Atreides"
+  },
+  {
+    "date": "2026-02-16",
+    "dog": "Paw Nimbus"
+  },
+  {
+    "date": "2026-02-16",
+    "dog": "Thermal Overload"
+  },
+  {
+    "date": "2026-02-16",
+    "dog": "Lucy School"
+  },
+  {
+    "date": "2026-02-16",
+    "dog": "Surging"
+  },
+  {
+    "date": "2026-02-16",
+    "dog": "Red Hot Pretty"
+  },
+  {
+    "date": "2026-02-16",
+    "dog": "Alpha Girl"
+  },
+  {
+    "date": "2026-02-16",
+    "dog": "Celtic Bouy"
+  },
+  {
+    "date": "2026-02-16",
+    "dog": "How Awesome"
+  },
+  {
+    "date": "2026-02-16",
+    "dog": "Mepunga Velvet"
+  },
+  {
+    "date": "2026-02-16",
+    "dog": "Eat Your Spinach"
+  },
+  {
+    "date": "2026-02-16",
+    "dog": "Darkest Colour"
+  },
+  {
+    "date": "2026-02-16",
+    "dog": "Val'S Legacy"
+  },
+  {
+    "date": "2026-02-16",
+    "dog": "Bush Jewel"
+  },
+  {
+    "date": "2026-02-16",
+    "dog": "Chatter Beast"
+  },
+  {
+    "date": "2026-02-16",
+    "dog": "Rocky Ray"
+  },
+  {
+    "date": "2026-02-16",
+    "dog": "Laserhawk"
+  },
+  {
+    "date": "2026-02-16",
+    "dog": "Universe"
+  },
+  {
+    "date": "2026-02-16",
+    "dog": "Collinda Dougie"
+  },
+  {
+    "date": "2026-02-16",
+    "dog": "Blessed Rain"
+  },
+  {
+    "date": "2026-02-16",
+    "dog": "Paw Quintessa"
+  },
+  {
+    "date": "2026-02-16",
+    "dog": "Mini Minion"
+  },
+  {
+    "date": "2026-02-16",
+    "dog": "Bree Cabang"
+  },
+  {
+    "date": "2026-02-15",
+    "dog": "Mepunga Infrared"
+  },
+  {
+    "date": "2026-02-15",
+    "dog": "Big Diesel"
+  },
+  {
+    "date": "2026-02-15",
+    "dog": "Lektra Hopper"
+  },
+  {
+    "date": "2026-02-15",
+    "dog": "Lady Tsunade"
+  },
+  {
+    "date": "2026-02-15",
+    "dog": "Mr. Oberon"
+  },
+  {
+    "date": "2026-02-15",
+    "dog": "Dr. Will"
+  },
+  {
+    "date": "2026-02-15",
+    "dog": "Gus Limes"
+  },
+  {
+    "date": "2026-02-15",
+    "dog": "Taryn'S Blue"
+  },
+  {
+    "date": "2026-02-15",
+    "dog": "Millie"
+  },
+  {
+    "date": "2026-02-15",
+    "dog": "Wario"
+  },
+  {
+    "date": "2026-02-15",
+    "dog": "Duran Rachel"
+  },
+  {
+    "date": "2026-02-14",
+    "dog": "Black Marvel"
+  },
+  {
+    "date": "2026-02-14",
+    "dog": "Man Of Courage"
+  },
+  {
+    "date": "2026-02-14",
+    "dog": "Spring Brumby"
+  },
+  {
+    "date": "2026-02-14",
+    "dog": "Aston Rennes"
+  },
+  {
+    "date": "2026-02-14",
+    "dog": "Hara Hachi Bu"
+  },
+  {
+    "date": "2026-02-14",
+    "dog": "Diamantina Pear"
+  },
+  {
+    "date": "2026-02-14",
+    "dog": "Paw Kristelle"
+  },
+  {
+    "date": "2026-02-14",
+    "dog": "Slick Tommy"
+  },
+  {
+    "date": "2026-02-13",
+    "dog": "Nancy Devere"
+  },
+  {
+    "date": "2026-02-13",
+    "dog": "Axioms"
+  },
+  {
+    "date": "2026-02-13",
+    "dog": "Sir Silvertree"
+  },
+  {
+    "date": "2026-02-13",
+    "dog": "Al'S Lass"
+  },
+  {
+    "date": "2026-02-13",
+    "dog": "Sheikh Of Tweak"
+  },
+  {
+    "date": "2026-02-13",
+    "dog": "Mepunga Power"
+  },
+  {
+    "date": "2026-02-13",
+    "dog": "Snow Road"
+  },
+  {
+    "date": "2026-02-13",
+    "dog": "Doongalla Rocket"
+  },
+  {
+    "date": "2026-02-13",
+    "dog": "Slick Ivan"
+  },
+  {
+    "date": "2026-02-13",
+    "dog": "Fast Freddy"
+  },
+  {
+    "date": "2026-02-13",
+    "dog": "Uncle Ernest"
+  },
+  {
+    "date": "2026-02-13",
+    "dog": "Paw Xena"
+  },
+  {
+    "date": "2026-02-13",
+    "dog": "Amron Lucy"
+  },
+  {
+    "date": "2026-02-13",
+    "dog": "Angry Ellie"
+  },
+  {
+    "date": "2026-02-13",
+    "dog": "Bring Your Best"
+  },
+  {
+    "date": "2026-02-13",
+    "dog": "Aston Pastizzi"
+  },
+  {
+    "date": "2026-02-13",
+    "dog": "Paw Tarkov"
+  },
+  {
+    "date": "2026-02-13",
+    "dog": "Bub Who"
+  },
+  {
+    "date": "2026-02-12",
+    "dog": "Moraine Koby"
+  },
+  {
+    "date": "2026-02-12",
+    "dog": "Marco Marco"
+  },
+  {
+    "date": "2026-02-12",
+    "dog": "Super Ceviche"
+  },
+  {
+    "date": "2026-02-12",
+    "dog": "Surprise Star"
+  },
+  {
+    "date": "2026-02-12",
+    "dog": "She Rebel"
+  },
+  {
+    "date": "2026-02-12",
+    "dog": "Irish Legend"
+  },
+  {
+    "date": "2026-02-12",
+    "dog": "Blue Labubu"
+  },
+  {
+    "date": "2026-02-12",
+    "dog": "Lilly Zoom"
+  },
+  {
+    "date": "2026-02-12",
+    "dog": "Cruisin' Grae"
+  },
+  {
+    "date": "2026-02-12",
+    "dog": "Blanket Game"
+  },
+  {
+    "date": "2026-02-12",
+    "dog": "Aston Rochelle"
+  },
+  {
+    "date": "2026-02-12",
+    "dog": "Surging"
+  },
+  {
+    "date": "2026-02-12",
+    "dog": "Paw Ingrid"
+  },
+  {
+    "date": "2026-02-12",
+    "dog": "Above Them All"
+  },
+  {
+    "date": "2026-02-12",
+    "dog": "Ava'S Pride"
+  },
+  {
+    "date": "2026-02-12",
+    "dog": "Paw Linden"
+  },
+  {
+    "date": "2026-02-12",
+    "dog": "Insinuating"
+  },
+  {
+    "date": "2026-02-12",
+    "dog": "Righteous Fury"
+  },
+  {
+    "date": "2026-02-12",
+    "dog": "Dare Devil"
+  },
+  {
+    "date": "2026-02-12",
+    "dog": "Mini Minion"
+  },
+  {
+    "date": "2026-02-12",
+    "dog": "Rowdy Boy"
+  },
+  {
+    "date": "2026-02-11",
+    "dog": "She'S Striking"
+  },
+  {
+    "date": "2026-02-11",
+    "dog": "Mrs. Winston"
+  },
+  {
+    "date": "2026-02-11",
+    "dog": "Paw Gusto"
+  },
+  {
+    "date": "2026-02-11",
+    "dog": "Kaelix Jewel"
+  },
+  {
+    "date": "2026-02-11",
+    "dog": "Juneau Rest"
+  },
+  {
+    "date": "2026-02-11",
+    "dog": "Hokkaido Express"
+  },
+  {
+    "date": "2026-02-11",
+    "dog": "Paw Harkonnen"
+  },
+  {
+    "date": "2026-02-11",
+    "dog": "Dr. Quibble"
+  },
+  {
+    "date": "2026-02-11",
+    "dog": "Kale Rocks"
+  },
+  {
+    "date": "2026-02-11",
+    "dog": "Thermal Ignition"
+  },
+  {
+    "date": "2026-02-11",
+    "dog": "Flying Currency"
+  },
+  {
+    "date": "2026-02-11",
+    "dog": "Surf'S Up"
+  },
+  {
+    "date": "2026-02-11",
+    "dog": "Gumtree Hill"
+  },
+  {
+    "date": "2026-02-11",
+    "dog": "Chilli Crumpet"
+  },
+  {
+    "date": "2026-02-11",
+    "dog": "Paint The Fence"
+  },
+  {
+    "date": "2026-02-11",
+    "dog": "Head Hunter"
+  },
+  {
+    "date": "2026-02-10",
+    "dog": "Aston Fame"
+  },
+  {
+    "date": "2026-02-10",
+    "dog": "How Awesome"
+  },
+  {
+    "date": "2026-02-10",
+    "dog": "Essendon Girl"
+  },
+  {
+    "date": "2026-02-10",
+    "dog": "Paw Geldoff"
+  },
+  {
+    "date": "2026-02-10",
+    "dog": "Bunni Bale"
+  },
+  {
+    "date": "2026-02-10",
+    "dog": "Paw Pascal"
+  },
+  {
+    "date": "2026-02-10",
+    "dog": "Blackpool Winter"
+  },
+  {
+    "date": "2026-02-10",
+    "dog": "Shallow Sally"
+  },
+  {
+    "date": "2026-02-10",
+    "dog": "Zak Flyer"
+  },
+  {
+    "date": "2026-02-10",
+    "dog": "Larni Lou"
+  },
+  {
+    "date": "2026-02-10",
+    "dog": "Ash Intention"
+  },
+  {
+    "date": "2026-02-10",
+    "dog": "Paw Clarissa"
+  },
+  {
+    "date": "2026-02-10",
+    "dog": "Aston Renminbi"
+  },
+  {
+    "date": "2026-02-10",
+    "dog": "Miss Coco"
+  },
+  {
+    "date": "2026-02-10",
+    "dog": "That'S My Cousin"
+  },
+  {
+    "date": "2026-02-10",
+    "dog": "Clyde Bale"
+  },
+  {
+    "date": "2026-02-10",
+    "dog": "Paw Kenneth"
+  },
+  {
+    "date": "2026-02-10",
+    "dog": "Aston Alert"
+  },
+  {
+    "date": "2026-02-10",
+    "dog": "Mac And Cheese"
+  },
+  {
+    "date": "2026-02-10",
+    "dog": "Flipper Paige"
+  },
+  {
+    "date": "2026-02-10",
+    "dog": "Pink Frosting"
+  },
+  {
+    "date": "2026-02-10",
+    "dog": "Sarsaparilla Kid"
+  },
+  {
+    "date": "2026-02-10",
+    "dog": "Devil'S Sympathy"
+  },
+  {
+    "date": "2026-02-10",
+    "dog": "Paw Missy"
+  },
+  {
+    "date": "2026-02-10",
+    "dog": "Let'S Cause Kaos"
+  },
+  {
+    "date": "2026-02-10",
+    "dog": "Varsity Bale"
+  },
+  {
+    "date": "2026-02-10",
+    "dog": "Pretty Pipa"
+  },
+  {
+    "date": "2026-02-09",
+    "dog": "Lemon Pepper"
+  },
+  {
+    "date": "2026-02-09",
+    "dog": "Touch Of Sin"
+  },
+  {
+    "date": "2026-02-09",
+    "dog": "Take The Steps"
+  },
+  {
+    "date": "2026-02-09",
+    "dog": "Thrill Seeker"
+  },
+  {
+    "date": "2026-02-09",
+    "dog": "Kirky Storm"
+  },
+  {
+    "date": "2026-02-09",
+    "dog": "Bella Supreme"
+  },
+  {
+    "date": "2026-02-09",
+    "dog": "Smiling Lily"
+  },
+  {
+    "date": "2026-02-09",
+    "dog": "Thermal Heat"
+  },
+  {
+    "date": "2026-02-09",
+    "dog": "Weathering"
+  },
+  {
+    "date": "2026-02-09",
+    "dog": "Paw Kiplin"
+  },
+  {
+    "date": "2026-02-09",
+    "dog": "Mexican Jack"
+  },
+  {
+    "date": "2026-02-09",
+    "dog": "Lektra Sting"
+  },
+  {
+    "date": "2026-02-09",
+    "dog": "Rita Skeeter"
+  },
+  {
+    "date": "2026-02-09",
+    "dog": "Crown Arya"
+  },
+  {
+    "date": "2026-02-09",
+    "dog": "Bush Jewel"
+  },
+  {
+    "date": "2026-02-09",
+    "dog": "Bush Buddy"
+  },
+  {
+    "date": "2026-02-09",
+    "dog": "Oddly Cool"
+  },
+  {
+    "date": "2026-02-09",
+    "dog": "Hara Hachi Bu"
+  },
+  {
+    "date": "2026-02-09",
+    "dog": "Hurricane Bert"
+  },
+  {
+    "date": "2026-02-09",
+    "dog": "Paw Kristelle"
+  },
+  {
+    "date": "2026-02-09",
+    "dog": "Solar Toby"
+  },
+  {
+    "date": "2026-02-09",
+    "dog": "Axioms"
+  },
+  {
+    "date": "2026-02-09",
+    "dog": "Living"
+  },
+  {
+    "date": "2026-02-09",
+    "dog": "Paw Kattia"
+  },
+  {
+    "date": "2026-02-09",
+    "dog": "Paw Fredia"
+  },
+  {
+    "date": "2026-02-09",
+    "dog": "Relax Mate"
+  },
+  {
+    "date": "2026-02-08",
+    "dog": "Kia Keeping"
+  },
+  {
+    "date": "2026-02-08",
+    "dog": "Mr. Oberon"
+  },
+  {
+    "date": "2026-02-08",
+    "dog": "Faye Valentine"
+  },
+  {
+    "date": "2026-02-08",
+    "dog": "Dominate"
+  },
+  {
+    "date": "2026-02-08",
+    "dog": "Ritza Wotton"
+  },
+  {
+    "date": "2026-02-08",
+    "dog": "Paw Larry"
+  },
+  {
+    "date": "2026-02-08",
+    "dog": "Big Diesel"
+  },
+  {
+    "date": "2026-02-08",
+    "dog": "Platoon"
+  },
+  {
+    "date": "2026-02-07",
+    "dog": "Phoenix Red"
+  },
+  {
+    "date": "2026-02-07",
+    "dog": "Flying Damiro"
+  },
+  {
+    "date": "2026-02-07",
+    "dog": "Paw Pascal"
+  },
+  {
+    "date": "2026-02-07",
+    "dog": "Aston Ostuni"
+  },
+  {
+    "date": "2026-02-07",
+    "dog": "Released"
+  },
+  {
+    "date": "2026-02-07",
+    "dog": "Dimora Blitz"
+  },
+  {
+    "date": "2026-02-07",
+    "dog": "Kaelix Comet"
+  },
+  {
+    "date": "2026-02-07",
+    "dog": "Mr. Olaf"
+  },
+  {
+    "date": "2026-02-07",
+    "dog": "Ivory Inzai"
+  },
+  {
+    "date": "2026-02-06",
+    "dog": "Secret Bandit"
+  },
+  {
+    "date": "2026-02-06",
+    "dog": "Come On Larry"
+  },
+  {
+    "date": "2026-02-06",
+    "dog": "Paw Elodee"
+  },
+  {
+    "date": "2026-02-06",
+    "dog": "Thunder Rose"
+  },
+  {
+    "date": "2026-02-06",
+    "dog": "Miss Coco"
+  },
+  {
+    "date": "2026-02-06",
+    "dog": "Paw Jelani"
+  },
+  {
+    "date": "2026-02-06",
+    "dog": "Donkey Fly"
+  },
+  {
+    "date": "2026-02-06",
+    "dog": "Just Believe"
+  },
+  {
+    "date": "2026-02-06",
+    "dog": "Dear Carla Lou"
+  },
+  {
+    "date": "2026-02-06",
+    "dog": "Caly Jet"
+  },
+  {
+    "date": "2026-02-06",
+    "dog": "Oh Biscuit"
+  },
+  {
+    "date": "2026-02-06",
+    "dog": "Exequiel"
+  },
+  {
+    "date": "2026-02-06",
+    "dog": "Paw Carver"
+  },
+  {
+    "date": "2026-02-06",
+    "dog": "Daddy Cool"
+  },
+  {
+    "date": "2026-02-06",
+    "dog": "Special Players"
+  },
+  {
+    "date": "2026-02-05",
+    "dog": "Patriot Cilla"
+  },
+  {
+    "date": "2026-02-05",
+    "dog": "Paw Geldoff"
+  },
+  {
+    "date": "2026-02-05",
+    "dog": "Doongalla Adam"
+  },
+  {
+    "date": "2026-02-05",
+    "dog": "Sir Silvertree"
+  },
+  {
+    "date": "2026-02-05",
+    "dog": "I'M To Blame"
+  },
+  {
+    "date": "2026-02-05",
+    "dog": "Baby Girl Pearl"
+  },
+  {
+    "date": "2026-02-05",
+    "dog": "Scott Sigma"
+  },
+  {
+    "date": "2026-02-05",
+    "dog": "Molly Mckayla"
+  },
+  {
+    "date": "2026-02-05",
+    "dog": "Little Thief"
+  },
+  {
+    "date": "2026-02-05",
+    "dog": "Paddy'S Chariot"
+  },
+  {
+    "date": "2026-02-05",
+    "dog": "Aston Warrior"
+  },
+  {
+    "date": "2026-02-05",
+    "dog": "Living"
+  },
+  {
+    "date": "2026-02-05",
+    "dog": "Bomber'S Lady"
+  },
+  {
+    "date": "2026-02-05",
+    "dog": "Lilly Zoom"
+  },
+  {
+    "date": "2026-02-05",
+    "dog": "Pelican'S Sunday"
+  },
+  {
+    "date": "2026-02-05",
+    "dog": "Thermal Heat"
+  },
+  {
+    "date": "2026-02-05",
+    "dog": "Teaser'S Beauty"
+  },
+  {
+    "date": "2026-02-05",
+    "dog": "Charge On"
+  },
+  {
+    "date": "2026-02-05",
+    "dog": "Monty'S Return"
+  },
+  {
+    "date": "2026-02-04",
+    "dog": "Paw Monet"
+  },
+  {
+    "date": "2026-02-04",
+    "dog": "Paw Gusto"
+  },
+  {
+    "date": "2026-02-04",
+    "dog": "Vacation Calling"
+  },
+  {
+    "date": "2026-02-04",
+    "dog": "Western'S Nasiah"
+  },
+  {
+    "date": "2026-02-04",
+    "dog": "Kid Blue"
+  },
+  {
+    "date": "2026-02-04",
+    "dog": "Paw Bastow"
+  },
+  {
+    "date": "2026-02-04",
+    "dog": "Atomic Diva"
+  },
+  {
+    "date": "2026-02-04",
+    "dog": "Lara Moon"
+  },
+  {
+    "date": "2026-02-04",
+    "dog": "Harlow'S Boy"
+  },
+  {
+    "date": "2026-02-04",
+    "dog": "Mia Coco"
+  },
+  {
+    "date": "2026-02-03",
+    "dog": "Reality Ollie"
+  },
+  {
+    "date": "2026-02-03",
+    "dog": "Smiling Lily"
+  },
+  {
+    "date": "2026-02-03",
+    "dog": "Paw Qwerty"
+  },
+  {
+    "date": "2026-02-03",
+    "dog": "Archie'S Gift"
+  },
+  {
+    "date": "2026-02-03",
+    "dog": "Sir Starbuck"
+  },
+  {
+    "date": "2026-02-03",
+    "dog": "Bunni Bale"
+  },
+  {
+    "date": "2026-02-03",
+    "dog": "Paw Lynette"
+  },
+  {
+    "date": "2026-02-03",
+    "dog": "Red Eye Samurai"
+  },
+  {
+    "date": "2026-02-03",
+    "dog": "White Scotch"
+  },
+  {
+    "date": "2026-02-03",
+    "dog": "Oklahoma Bale"
+  },
+  {
+    "date": "2026-02-03",
+    "dog": "Blackpool Finn"
+  },
+  {
+    "date": "2026-02-03",
+    "dog": "Hokkaido Express"
+  },
+  {
+    "date": "2026-02-03",
+    "dog": "Night Sharid"
+  },
+  {
+    "date": "2026-02-03",
+    "dog": "Be A Beauty"
+  },
+  {
+    "date": "2026-02-03",
+    "dog": "Scotch Fever"
+  },
+  {
+    "date": "2026-02-02",
+    "dog": "Doongalla Adam"
+  },
+  {
+    "date": "2026-02-02",
+    "dog": "Cabao Lapis"
+  },
+  {
+    "date": "2026-02-02",
+    "dog": "Wilson Again"
+  },
+  {
+    "date": "2026-02-02",
+    "dog": "Paw Kattia"
+  },
+  {
+    "date": "2026-02-02",
+    "dog": "Lektra Rosa"
+  },
+  {
+    "date": "2026-02-02",
+    "dog": "Inga Amy"
+  },
+  {
+    "date": "2026-02-02",
+    "dog": "Currently"
+  },
+  {
+    "date": "2026-02-02",
+    "dog": "Lilly'S Wish"
+  },
+  {
+    "date": "2026-02-02",
+    "dog": "Seger"
+  },
+  {
+    "date": "2026-02-02",
+    "dog": "Ada Blaze"
+  },
+  {
+    "date": "2026-02-02",
+    "dog": "Bluer Than Blue"
+  },
+  {
+    "date": "2026-02-02",
+    "dog": "Lektra Sting"
+  },
+  {
+    "date": "2026-02-02",
+    "dog": "Abracadabra"
+  },
+  {
+    "date": "2026-02-02",
+    "dog": "Bush Profit"
+  },
+  {
+    "date": "2026-02-02",
+    "dog": "Henry Bale"
+  },
+  {
+    "date": "2026-02-02",
+    "dog": "Paw Missy"
+  },
+  {
+    "date": "2026-02-02",
+    "dog": "Tinker Conall"
+  },
+  {
+    "date": "2026-02-02",
+    "dog": "Hard Style Leon"
+  },
+  {
+    "date": "2026-02-02",
+    "dog": "I'M Fabulous"
+  },
+  {
+    "date": "2026-02-02",
+    "dog": "Found Treasure"
+  },
+  {
+    "date": "2026-02-02",
+    "dog": "Perfect Symphony"
+  },
+  {
+    "date": "2026-02-02",
+    "dog": "Scott The Pop"
+  },
+  {
+    "date": "2026-02-02",
+    "dog": "Hara Hachi Bu"
+  },
+  {
+    "date": "2026-02-02",
+    "dog": "Qilin Bale"
+  },
+  {
+    "date": "2026-02-01",
+    "dog": "Aston Gleam"
+  },
+  {
+    "date": "2026-02-01",
+    "dog": "Platoon"
+  },
+  {
+    "date": "2026-02-01",
+    "dog": "Rocklea Earle"
+  },
+  {
+    "date": "2026-02-01",
+    "dog": "Axioms"
+  },
+  {
+    "date": "2026-02-01",
+    "dog": "Unique Destiny"
+  },
+  {
+    "date": "2026-02-01",
+    "dog": "Trading Halt"
+  },
+  {
+    "date": "2026-02-01",
+    "dog": "Paw Ezra"
+  },
+  {
+    "date": "2026-02-01",
+    "dog": "Paw Quark"
+  },
+  {
+    "date": "2026-01-31",
+    "dog": "Lush Hour"
+  },
+  {
+    "date": "2026-01-31",
+    "dog": "Zipping Everdeen"
+  },
+  {
+    "date": "2026-01-31",
+    "dog": "Rothwell Bonnie"
+  },
+  {
+    "date": "2026-01-31",
+    "dog": "Rio Stella"
+  },
+  {
+    "date": "2026-01-31",
+    "dog": "Blackpool Finn"
+  },
+  {
+    "date": "2026-01-30",
+    "dog": "Greysynd Clyde"
+  },
+  {
+    "date": "2026-01-30",
+    "dog": "No Stop Signs"
+  },
+  {
+    "date": "2026-01-30",
+    "dog": "Gloria'S Entity"
+  },
+  {
+    "date": "2026-01-30",
+    "dog": "Paw Winkworth"
+  },
+  {
+    "date": "2026-01-30",
+    "dog": "Super Batman"
+  },
+  {
+    "date": "2026-01-30",
+    "dog": "Paw Kenneth"
+  },
+  {
+    "date": "2026-01-30",
+    "dog": "Paw Bastow"
+  },
+  {
+    "date": "2026-01-30",
+    "dog": "Fiddles"
+  },
+  {
+    "date": "2026-01-30",
+    "dog": "Go Fish"
+  },
+  {
+    "date": "2026-01-30",
+    "dog": "Tropic Man"
+  },
+  {
+    "date": "2026-01-29",
+    "dog": "Gas And Dust"
+  },
+  {
+    "date": "2026-01-29",
+    "dog": "Foxy Roxy"
+  },
+  {
+    "date": "2026-01-29",
+    "dog": "Nineteen Crimes"
+  },
+  {
+    "date": "2026-01-29",
+    "dog": "Waxing"
+  },
+  {
+    "date": "2026-01-29",
+    "dog": "Percy"
+  },
+  {
+    "date": "2026-01-29",
+    "dog": "Devon Daisies"
+  },
+  {
+    "date": "2026-01-29",
+    "dog": "Molly Mia"
+  },
+  {
+    "date": "2026-01-29",
+    "dog": "Zari Bettina"
+  },
+  {
+    "date": "2026-01-29",
+    "dog": "Beanie Thief"
+  },
+  {
+    "date": "2026-01-29",
+    "dog": "Black Statesman"
+  },
+  {
+    "date": "2026-01-29",
+    "dog": "Paw Lampades"
+  },
+  {
+    "date": "2026-01-29",
+    "dog": "Save Me Gary"
+  },
+  {
+    "date": "2026-01-29",
+    "dog": "Duran Rachel"
+  },
+  {
+    "date": "2026-01-29",
+    "dog": "Par Excellence"
+  },
+  {
+    "date": "2026-01-29",
+    "dog": "Doongalla Pedro"
+  },
+  {
+    "date": "2026-01-29",
+    "dog": "Naughty Norm"
+  },
+  {
+    "date": "2026-01-29",
+    "dog": "Paw Forrester"
+  },
+  {
+    "date": "2026-01-29",
+    "dog": "Intuitive"
+  },
+  {
+    "date": "2026-01-29",
+    "dog": "I'M Easy"
+  },
+  {
+    "date": "2026-01-29",
+    "dog": "Paw Ingrid"
+  },
+  {
+    "date": "2026-01-28",
+    "dog": "Old Habits"
+  },
+  {
+    "date": "2026-01-28",
+    "dog": "Still Believe"
+  },
+  {
+    "date": "2026-01-28",
+    "dog": "Paw Qatar"
+  },
+  {
+    "date": "2026-01-28",
+    "dog": "My Long Black"
+  },
+  {
+    "date": "2026-01-28",
+    "dog": "Reprieval"
+  },
+  {
+    "date": "2026-01-28",
+    "dog": "Lilly Zoom"
+  },
+  {
+    "date": "2026-01-28",
+    "dog": "Hard Style Leon"
+  },
+  {
+    "date": "2026-01-28",
+    "dog": "Special Players"
+  },
+  {
+    "date": "2026-01-28",
+    "dog": "Hailey'S Jet"
+  },
+  {
+    "date": "2026-01-28",
+    "dog": "Did Not"
+  },
+  {
+    "date": "2026-01-28",
+    "dog": "Blues Train"
+  },
+  {
+    "date": "2026-01-28",
+    "dog": "Scotch Fever"
+  },
+  {
+    "date": "2026-01-28",
+    "dog": "Just Believe"
+  },
+  {
+    "date": "2026-01-28",
+    "dog": "Inga Buddy"
+  },
+  {
+    "date": "2026-01-28",
+    "dog": "Relax Mate"
+  },
+  {
+    "date": "2026-01-28",
+    "dog": "Miss Jo"
+  },
+  {
+    "date": "2026-01-28",
+    "dog": "Paw Kristelle"
+  },
+  {
+    "date": "2026-01-28",
+    "dog": "Energiser Dash"
+  },
+  {
+    "date": "2026-01-26",
+    "dog": "Paw Murbella"
+  },
+  {
+    "date": "2026-01-26",
+    "dog": "Aston Telmont"
   }
 ]
